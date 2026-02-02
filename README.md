@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shafin Ahad Siam 
 - 👀 I’m interested in Web Projects, Machine Learning, Data Analysis, Game Development
-- 🌱 I’m currently learning React Js and Django
+- 🌱 Currently, I am working as a Full-Stack Developer specialized in Django & DRF, besides these, I am also learning ReactJS and many more
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me -> email: 98sasiam@gmail.com
 
