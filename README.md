@@ -70,11 +70,11 @@ Backend development for Ten Piece, focused on payment integration using the **Re
 
 ---
 
-## 📊 GitHub Stats
+<!--  ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Shafin98&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=Shafin98&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shafin98&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shafin98&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
 
