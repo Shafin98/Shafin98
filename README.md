@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shafin Ahad Siam</h1>
-<h3 align="center">🚀 Backend Engineer | Django • DRF • React | ERP Systems & System Design</h3>
+<h3 align="center">🚀 Full-Stack Developer | Django • DRF • React | ERP Systems & System Design</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Shafin Ahad Siam**, a **Backend Engineer** at YUM Studio, focused on backend systems, REST API design, and production deployment for web platforms and ERP systems.
+I'm **Shafin Ahad Siam**, currently a **Backend Engineer** at YUM Studio, focused on backend systems, REST API design, and production deployment for web platforms and ERP systems.
 
 🔧 Specializing in:
 - Backend systems and REST APIs with **Django** and **Django REST Framework**
