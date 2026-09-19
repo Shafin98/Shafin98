@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shafin Ahad Siam</h1>
-<h3 align="center">🚀 Technical Lead (Backend & System Architecture) | Django • DRF • React | ERP Systems & System Design</h3>
+<h3 align="center">🚀 Backend Engineer (Systems & API Design) | Django • DRF • React | ERP Systems & System Design</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Shafin Ahad Siam**, a **Full-Stack Developer** and **Technical Lead** at YUM Studio, focused on backend and system architecture for web platforms and ERP systems.
+I'm **Shafin Ahad Siam**, a **Backend Engineer** at YUM Studio, focused on backend systems, REST API design, and production deployment for web platforms and ERP systems.
 
 🔧 Specializing in:
 - Backend systems and REST APIs with **Django** and **Django REST Framework**
 - Frontend development with **React**, **Vite**, and **Tailwind CSS**
 - ERP module design: HR, Attendance/Activity Tracking, Project Management
-- VPS-based deployment, Git-based workflows, and API testing with Postman
+- VPS-based production deployment using **Coolify**, **Gunicorn**, and **Nginx**
 
 🎯 **Currently Building**
 - 🏗 **YUM Studio Modular Monolith ERP** — currently developing its frontend with **Next.js**
@@ -30,12 +30,13 @@ System Design · AI/ML Engineering · Next.js
 - **Auth & Access Control:** JWT authentication, role-based access control
 
 ### 🗃️ Databases
-- MySQL, PostgreSQL, SQLite
+- PostgreSQL, MySQL
 
 ### ☁️ DevOps & Tooling
-- VPS-based deployment
+- VPS-based production deployment (Coolify, Gunicorn, Nginx)
 - Git & GitHub
 - Postman (API testing)
+- Docker
 
 ---
 
@@ -61,22 +62,14 @@ Backend development for Ten Piece, focused on payment integration using the **Re
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/></a>
 </p>
 
 ---
-
-<!--  ## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=Shafin98&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Shafin98&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shafin98&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-
---- -->
 
 ## 📬 Connect with Me
 
@@ -89,4 +82,4 @@ Backend development for Ten Piece, focused on payment integration using the **Re
 
 ---
 
-> 💡 *Open to collaborating on group projects and full-stack/backend opportunities. Let's build something great together!*
+> 💡 *Open to collaborating on backend projects and full-stack opportunities. Let's build something great together!*
