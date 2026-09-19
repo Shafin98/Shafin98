@@ -17,7 +17,7 @@ I'm **Shafin Ahad Siam**, currently a **Backend Engineer** at YUM Studio, focuse
 - 🏗 **YUM Studio Modular Monolith ERP** — currently developing its frontend with **Next.js**
 
 📚 **Currently Learning**
-System Design · AI/ML Engineering · Next.js
+AI/ML Engineering · Next.js
 *(learning Next.js hands-on while building the ERP frontend)*
 
 ---
