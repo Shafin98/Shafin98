@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shafin Ahad Siam**, currently a **Backend Engineer** at YUM Studio, focused on backend systems, REST API design, and production deployment for web platforms and ERP systems.
+I'm **Shafin Ahad Siam**, currently working as a **Backend Engineer** at YUM Studio, focused on backend systems, REST API design, and production deployment for web platforms and ERP systems.
 
 🔧 Specializing in:
 - Backend systems and REST APIs with **Django** and **Django REST Framework**
