@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafin Ahad Siam</h1>
-<h3 align="center">🚀 Backend Engineer — Backend Systems & API Development | Django • DRF • React | ERP Systems & System Design</h3>
+<h3 align="center">🚀 Backend Engineer | Django • DRF • React | ERP Systems & System Design</h3>
 
 ---
 
